@@ -5,13 +5,13 @@
 [![My Skills](https://skillicons.dev/icons?i=arch,neovim,notion,bash,git&perline=6)](https://skillicons.dev)
 
 #### Web
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,python,django,dotnet,go&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,dotnet,ts,react,nextjs,python,django&perline=8)](https://skillicons.dev)
 
 #### Cloud
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform&perline=8)](https://skillicons.dev)
 
 #### Systems
-[![My Skills](https://skillicons.dev/icons?i=c,rust&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,c&perline=8)](https://skillicons.dev)
 
 #### Certifications
 [![Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://cp.certmetrics.com/amazon/en/public/verify/credential/5b73b63c900e4643881bf8e1d5621ae8)
